@@ -1,0 +1,48 @@
+{
+    "data": "Golem list",
+    "version": 0.1,
+    "created": "2024-11-02T00:00:00.000Z",
+    "golems": [
+      {
+        "name": "Horned Blight",
+        "arcana": "Urugal",
+        "size": "Warsprite",
+        "apv": 80,
+        "collectors-number": "G0004",
+        "movement": 
+            {"Walk": [
+                {
+                    "ap": 1,
+                    "mp": 4,
+                    "nimble": false
+                }
+            ], 
+            "Fly": [
+            ]
+          }
+      },
+      {
+        "name": "Winged Preserver",
+        "arcana": "Durani",
+        "size": "Titan",
+        "apv": 150,
+        "collectors-number": "G0012",
+        "movement": 
+            {"Walk": [
+                {
+                    "ap": 2,
+                    "mp": 2,
+                    "nimble": true
+                }
+            ], 
+            "Fly": [
+              {
+                "ap": 3,
+                "mp": 2,
+                "nimble": false
+              }
+            ]
+          }
+      }
+    ]
+  }

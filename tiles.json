@@ -1,0 +1,1501 @@
+{
+    "data": "Tiles",
+    "version": 0.1,
+    "created": "2024-12-22T00:00:00.000Z",
+    "tiles": {
+        "1A": {
+            "tileset": 1,
+            "regions": [
+                {
+                    "terrain": "Plains",
+                    "cover": "No cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "Ground cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "Medium cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "Ground cover"
+                },
+                {
+                    "terrain": "Hills",
+                    "cover": "Ground cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "Ground cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "Medium cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "Medium cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "No cover"
+                }
+            ]
+        },
+        "1B": {
+            "tileset": 1,
+            "regions": [
+                {
+                    "terrain": "Plains",
+                    "cover": "Medium cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "Medium cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "Ground cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "Medium cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "Ground cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "Medium cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "Ground cover"
+                },
+                {
+                    "terrain": "Plains",
+                    "cover": "Ground cover"
+                },
+                {
+                    "terrain": "Hills",
+                    "cover": "Medium cover"
+                }
+            ]
+        },
+        "2A": {
+    "tileset": 1,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Mountains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 1
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        }
+    ]
+},
+"2B": {
+    "tileset": 1,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Mountains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 2
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        }
+    ]
+},
+"3A": {
+    "tileset": 1,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Deep water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        }
+    ]
+},
+"3B": {
+    "tileset": 1,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 1
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Deep water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        }
+    ]
+},
+"4A": {
+    "tileset": 1,
+    "regions": [
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 1
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        }
+    ]
+},
+"4B": {
+    "tileset": 1,
+    "regions": [
+        {
+            "terrain": "Hills",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 1
+        },
+        {
+            "terrain": "Hills",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        }
+    ]
+},
+"5A": {
+    "tileset": 1,
+    "regions": [
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        }
+    ]
+},
+"5B": {
+    "tileset": 1,
+    "regions": [
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Deep water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        }
+    ]
+},
+"6A": {
+    "tileset": 1,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Mountains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        }
+    ]
+},
+"6B": {
+    "tileset": 1,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 2
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Mountains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        }
+    ]
+},
+"7A": {
+    "tileset": 2,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Mountains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        }
+    ]
+},
+"7B": {
+    "tileset": 2,
+    "regions": [
+        {
+            "terrain": "Mountains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        }
+    ]
+},
+"8A": {
+    "tileset": 2,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 1
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        }
+    ]
+},
+"8B": {
+    "tileset": 2,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 2
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        }
+    ]
+},
+"9A": {
+    "tileset": 2,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 1
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 2
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "The Pit",
+            "cover": "No cover"
+        }
+    ]
+},
+"9B": {
+    "tileset": 2,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 1
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        }
+    ]
+},
+"10A": {
+    "tileset": 2,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Deep water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        }
+    ]
+},
+"10B": {
+    "tileset": 2,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 2
+        },
+        {
+            "terrain": "The Pit",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        }
+    ]
+},
+"11A": {
+    "tileset": 2,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Mountains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 1
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        }
+    ]
+},
+"11B": {
+    "tileset": 2,
+    "regions": [
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "The Pit",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 2
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        }
+    ]
+},
+"12A": {
+    "tileset": 2,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 1
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 1
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        }
+    ]
+},
+"12B": {
+    "tileset": 2,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 2
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Mountains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        }
+    ]
+},
+"13A": {
+    "tileset": 3,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Miasma swamp",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Miasma swamp",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        }
+    ]
+},
+"13B": {
+    "tileset": 3,
+    "regions": [
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Deep water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        }
+    ]
+},
+"14A": {
+    "tileset": 3,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        }
+    ]
+},
+"14B": {
+    "tileset": 3,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        }
+    ]
+},
+"15A": {
+    "tileset": 3,
+    "regions": [
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Miasma swamp",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        }
+    ]
+},
+"15B": {
+    "tileset": 3,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },  
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        }
+    ]
+},
+"16A": {
+    "tileset": 3,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Miasma swamp",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        }
+    ]
+},
+"16B": {
+    "tileset": 3,
+    "regions": [
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Mountains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        }
+    ]
+},
+"17A": {
+    "tileset": 3,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Deep water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        }
+    ]
+},
+"17B": {
+    "tileset": 3,
+    "regions": [
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Hills",
+            "cover": "No cover"
+        }
+    ]
+},
+"18A": {
+    "tileset": 3,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Heavy cover",
+            "obstructions": 2
+        },
+        {
+            "terrain": "Deep water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "The Pit",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Shallow water",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        }
+    ]
+},
+"18B": {
+    "tileset": 3,
+    "regions": [
+        {
+            "terrain": "Plains",
+            "cover": "Medium cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "Ground cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Miasma swamp",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Miasma swamp",
+            "cover": "No cover"
+        },
+        {
+            "terrain": "Plains",
+            "cover": "No cover"
+        }
+    ]
+}
+    }
+}

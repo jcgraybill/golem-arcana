@@ -1,0 +1,161 @@
+{
+    "data": "Terrain list",
+    "version": 0.1,
+    "created": "2024-11-09T00:00:00.000Z",
+    "terrains": {
+      "Plains": {
+        "mp": {
+          "Walk": 1,
+          "Fly": 1
+        },
+        "can_end_movement_in": true,
+        "Valid cover": [
+          "Ground cover",
+          "Medium cover",
+          "Heavy cover"
+        ]
+      },
+      "Hills": {
+        "mp": {
+          "Walk": 2,
+          "Fly": 1
+        },
+        "can_end_movement_in": true,
+        "block_los_unelevated_attacker": true,
+        "is_elevated": true,
+        "range_modifier": 1,
+        "Valid cover": [
+          "Ground cover",
+          "Medium cover"
+        ]
+      },
+      "Mountains": {
+        "mp": {
+          "Walk": false,
+          "Fly": 1
+        },
+        "block_los": true,
+        "can_end_movement_in": false
+      },
+      "Shallow water": {
+        "mp": {
+          "Walk": 1,
+          "Fly": 1
+        },
+        "can_end_movement_in": true,
+        "cover_type": "Ground cover",
+        "no_blesses_or_curses": true        
+      },
+      "Deep water": {
+        "mp": {
+          "Walk": 2,
+          "Fly": 1
+        },
+        "can_end_movement_in": true,
+        "cover_type": "Medium cover",
+        "no_blesses_or_curses": true        
+      },
+      "Miasma swamp": {
+        "mp": {
+          "Walk": 1,
+          "Fly": 1
+        },
+        "can_end_movement_in": true,
+        "no_blesses_or_curses": true,
+        "damage_when_entering": 5,
+        "damage_at_turn_start": 5     
+      },
+      "The Pit": {
+        "mp": {
+          "Walk": 1,
+          "Fly": 1
+        },
+        "can_end_movement_in": true,
+        "damage_when_entering": 10,
+        "breakaway_modifier": 1,
+        "ranged_accuracy_modifier": -30
+      },
+      "Map Edge": {
+        "mp": {
+          "Walk": false,
+          "Fly": false
+        },
+        "can_end_movement_in": false,
+        "block_los": true
+      }
+    },
+    "covers": {
+      "No cover": {
+        "mp": {
+          "Walk": 1,
+          "Fly": 1
+        },
+        "cover": {
+          "Warsprite": 0,
+          "Ogre": 0,
+          "Titan": 0,
+          "Colossus": 0
+        },
+        "intervening": {
+          "Warsprite": 0,
+          "Ogre": 0,
+          "Titan": 0,
+          "Colossus": 0
+        }
+      },
+      "Ground cover": {
+        "mp": {
+          "Walk": 1,
+          "Fly": 1
+        },
+        "cover": {
+          "Warsprite": 10,
+          "Ogre": 0,
+          "Titan": 0,
+          "Colossus": 0
+        },
+        "intervening": {
+          "Warsprite": 5,
+          "Ogre": 0,
+          "Titan": 0,
+          "Colossus": 0
+        }
+      },
+      "Medium cover": {
+        "mp": {
+          "Walk": 2,
+          "Fly": 1
+        },
+        "cover": {
+          "Warsprite": 20,
+          "Ogre": 10,
+          "Titan": 5,
+          "Colossus": 0
+        },
+        "intervening": {
+          "Warsprite": 10,
+          "Ogre": 5,
+          "Titan": 2,
+          "Colossus": 0
+        }
+      },
+      "Heavy cover": {
+        "mp": {
+          "Walk": 2,
+          "Fly": 1
+        },
+        "cover": {
+          "Warsprite": 25,
+          "Ogre": 15,
+          "Titan": 10,
+          "Colossus": 0
+        },
+        "intervening": {
+          "Warsprite": 12,
+          "Ogre": 7,
+          "Titan": 5,
+          "Colossus": 0
+        }
+      }
+    }
+  }

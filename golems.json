@@ -1,0 +1,88 @@
+{
+    "data": "Golem list",
+    "version": 0.1,
+    "created": "2024-11-02T00:00:00.000Z",
+    "golems": [
+      {
+        "name": "Bramblehorn",
+        "arcana": "Zikia",
+        "size": "Warsprite",
+        "apv": 55,
+        "health": 45,
+        "armor": 3,
+        "dodge": 20,
+        "collectors-number": "G0001",
+        "movement": 
+            {"Walk": [
+                {
+                    "ap": 1,
+                    "mp": 3,
+                    "nimble": true
+                }
+            ],
+             "Fly": [
+
+            ]},
+          "attacks": 
+          {
+            "Scouting Flare": {
+              "ap": 2,
+              "tohit": 85,
+              "damage": 18,
+              "range": 2,
+              "description": "Swamp lights flare about the enemy signaling its presence. The Target loses all Cover Bonuses and Intervening Cover Bonuses for 2 Rounds."
+            },
+            "Kick": {
+              "ap": 1,
+              "tohit": 75,
+              "damage": 20,
+              "range": 0,
+              "description": "The Bramblehorn rears back on its hind legs and lashes out with a fierce kick."
+            }
+          }
+      },
+      {
+        "name": "Charred Demon",
+        "arcana": "Gudanna",
+        "size": "Warsprite",
+        "apv": 80,
+        "health": 45,
+        "armor": 4,
+        "dodge": 19,
+        "collectors-number": "G0028",
+        "movement": 
+            {"Walk": [
+                {
+                    "ap": 1,
+                    "mp": 3,
+                    "nimble": false
+                },
+                {
+                  "ap": 1,
+                  "mp": 3,
+                  "nimble": false
+              }
+            ], 
+            "Fly": [
+            ]
+          },
+          "attacks": 
+          {
+            "Scarring Whip": {
+              "ap": 2,
+              "tohit": 70,
+              "damage": 25,
+              "range": 1,
+              "description": "When this attack hits, move the Target anywhere within range of 2 Regions.  This doesn't work on Colossi."
+            },
+            "Scourge": {
+              "ap": 1,
+              "tohit": 65,
+              "damage": 27,
+              "range": 0,
+              "description": "."
+            }
+          }
+      }
+    ]
+  }
